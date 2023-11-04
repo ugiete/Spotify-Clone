@@ -1,0 +1,26 @@
+{
+  "slogan": "Millions of Songs.\nFree on Spotify.",
+  "@slogan": {
+    "description": "Spotify start page slogan"
+  },
+  "signUpButton": "Sign up free",
+  "@signUpButton": {
+    "description": "Sign up button text"
+  },
+  "googleSignUpButton": "Continue with Google",
+  "@googleSignUpButton": {
+    "description": "Sign up with Google"
+  },
+  "facebookSignUpButton": "Continue with Facebook",
+  "@facebookSignUpButton": {
+    "description": "Sign up with Facebook"
+  },
+  "appleSignUpButton": "Continue with Apple",
+  "@appleSignUpButton": {
+    "description": "Sign up with Apple"
+  },
+  "logInButton": "Log in",
+  "@logInButton": {
+    "description": "Log in button"
+  }
+}
