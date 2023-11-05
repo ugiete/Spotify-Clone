@@ -22,5 +22,65 @@
   "logInButton": "Log in",
   "@logInButton": {
     "description": "Log in button"
+  },
+  "createAccountHeader": "Create account",
+  "@createAccountHeader": {
+    "description": "Sign up page app bar title"
+  },
+  "emailInputTitle": "What's your email?",
+  "@emailInputTitle": {
+    "description": "Email text field input title"
+  },
+  "emailInputMessage": "You'll need to confirm this email later.",
+  "@emailInputMessage": {
+    "description": "Email text field input message"
+  },
+  "passwordInputTitle": "Create a password",
+  "@passwordInputTitle": {
+    "description": "Password text field input title"
+  },
+  "passwordInputMessage": "Use at least 8 characters.",
+  "@passwordInputMessage": {
+    "description": "Password text field input message"
+  },
+  "nameInputTitle": "What's your name?",
+  "@nameInputTitle": {
+    "description": "Name text field input title"
+  },
+  "nameInputMessage": "This appears on your spotify profile.",
+  "@nameInputMessage": {
+    "description": "Name text field input message"
+  },
+  "nextButton": "Next",
+  "@nextButton": {
+    "description": "Next button message"
+  },
+  "createAccountButton": "Create an account",
+  "@createAccountButton": {
+    "description": "Create account button message"
+  },
+  "termsOfUse": "Terms of Use",
+  "@createAccountButton": {
+    "description": "Terms of use title"
+  },
+  "termsOfUseDisclaimer": "By tapping on \"Create account\", you agree to the spotify Terms of Use.",
+  "@createAccountButton": {
+    "description": "Terms of use disclaimer"
+  },
+  "privacyPolicy": "Privacy Policy",
+  "@createAccountButton": {
+    "description": "Privacy policy title"
+  },
+  "privacyPolicyDisclaimer": "To learn more about how Spotify collect, uses, shares and protects your personal data, Please see the Spotify Privacy Policy.",
+  "@createAccountButton": {
+    "description": "Privacy policy disclaimer"
+  },
+  "sendNewsMessage": "Please send me news and offers from Spotify.",
+  "@createAccountButton": {
+    "description": "Send news message"
+  },
+  "shareDataDisclaimer": "Share my registration data with Spotify's content providers for marketing purposes.",
+  "@createAccountButton": {
+    "description": "Share data disclaimer"
   }
 }
