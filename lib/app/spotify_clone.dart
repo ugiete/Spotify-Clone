@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:spotify_clone/pages/sign_up/sign_up_page.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+import 'package:spotify_clone/pages/song/audio_page.dart';
 
 class SpotifyCloneApp extends StatelessWidget {
   const SpotifyCloneApp({super.key});
@@ -20,7 +20,7 @@ class SpotifyCloneApp extends StatelessWidget {
         Locale('en')
       ],
       debugShowCheckedModeBanner: false,
-      home: SignUpPage(),
+      home: AudioPage(),
     );
   }
 }

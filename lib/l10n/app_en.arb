@@ -60,27 +60,31 @@
     "description": "Create account button message"
   },
   "termsOfUse": "Terms of Use",
-  "@createAccountButton": {
+  "@termsOfUse": {
     "description": "Terms of use title"
   },
   "termsOfUseDisclaimer": "By tapping on \"Create account\", you agree to the spotify Terms of Use.",
-  "@createAccountButton": {
+  "@termsOfUseDisclaimer": {
     "description": "Terms of use disclaimer"
   },
   "privacyPolicy": "Privacy Policy",
-  "@createAccountButton": {
+  "@privacyPolicy": {
     "description": "Privacy policy title"
   },
   "privacyPolicyDisclaimer": "To learn more about how Spotify collect, uses, shares and protects your personal data, Please see the Spotify Privacy Policy.",
-  "@createAccountButton": {
+  "@privacyPolicyDisclaimer": {
     "description": "Privacy policy disclaimer"
   },
   "sendNewsMessage": "Please send me news and offers from Spotify.",
-  "@createAccountButton": {
+  "@sendNewsMessage": {
     "description": "Send news message"
   },
   "shareDataDisclaimer": "Share my registration data with Spotify's content providers for marketing purposes.",
-  "@createAccountButton": {
+  "@shareDataDisclaimer": {
     "description": "Share data disclaimer"
+  },
+  "lyrics": "Lyrics",
+  "@lyrics": {
+    "description": "Lyrics panel title"
   }
 }

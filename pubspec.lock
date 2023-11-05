@@ -9,6 +9,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.11.0"
+  audio_video_progress_bar:
+    dependency: "direct main"
+    description:
+      name: audio_video_progress_bar
+      sha256: "3384875247cdbea748bd9ae8330631cd06a6cabfcda4945d45c9b406da92bc66"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.0.1"
   boolean_selector:
     dependency: transitive
     description:
@@ -75,6 +83,14 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_lyric:
+    dependency: "direct main"
+    description:
+      name: flutter_lyric
+      sha256: "5d7e6c46c07b96842a05d5d8af385cb9d715feb7e0f1db1983bc128813c420d7"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.0.4+6"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -120,6 +136,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.9.1"
+  palette_generator:
+    dependency: "direct main"
+    description:
+      name: palette_generator
+      sha256: eb7082b4b97487ebc65b3ad3f6f0b7489b96e76840381ed0e06a46fe7ffd4068
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.3.3+3"
   path:
     dependency: transitive
     description:
@@ -181,6 +205,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.6.0"
+  text_scroll:
+    dependency: "direct main"
+    description:
+      name: text_scroll
+      sha256: "7869d86a6fdd725dee56bdd150216a99f0372b82fbfcac319214dbd5f36e1908"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.2.0"
   vector_math:
     dependency: transitive
     description:
@@ -199,3 +231,4 @@ packages:
     version: "0.1.4-beta"
 sdks:
   dart: ">=3.1.4 <4.0.0"
+  flutter: ">=3.7.0"
